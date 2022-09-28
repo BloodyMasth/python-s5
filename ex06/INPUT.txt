@@ -1,0 +1,3 @@
+2 5 price quantity ./ex06/file.csv
+2 5 price quantity ./ex06/file - Copie.csv
+2 15 price quantity ./ex06/file.csv
